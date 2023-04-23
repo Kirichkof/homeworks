@@ -5,4 +5,4 @@ num2 = int(n[1])
 num3 = int(n[2])
 result = num1 + num2 + num3
 
-print('Сумма чисел числа ' + str(n) + ' равна ' + str(result))
+print('Сумма чисел числа ' + str(n) + ' равна ' + str(result) )
